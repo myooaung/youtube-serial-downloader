@@ -1,1 +1,1 @@
-https://github.com/yt-dlp/yt-dlp/releases/download/2021.07.21/yt-dlp
+https://github.com/yt-dlp/yt-dlp/releases/download/2021.07.24/yt-dlp
